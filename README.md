@@ -1,6 +1,6 @@
 # 03_03 Run scripts from the pipeline
 
-[![Build Status](http://18.195.58.245/buildStatus/icon?job=run-scripts-from-the-pipeline)](http://18.195.58.245/job/run-scripts-from-the-pipeline/)
+[![Build Status](http://18.195.58.245/buildStatus/icon?job=run-scripts-from-the-pipeline&status=passing)](http://18.195.58.245/job/run-scripts-from-the-pipeline/)
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
